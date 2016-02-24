@@ -27,4 +27,4 @@ You can add a puppy or kitty to your page using the following shortcodes:
 
 ## Known Issues
 
-* Currently only one puppy or kitty is loaded when the page is loaded, meaning multiple copies of the same puppy will be loaded if the shortcode or widget is used more than once. This needs to be fixed by using a better puppy/kitty API# wp-puppy-kitty-generator
+* Currently only one puppy or kitty is loaded when the page is loaded, meaning multiple copies of the same puppy will be loaded if the shortcode or widget is used more than once. This needs to be fixed by using a better puppy/kitty API
